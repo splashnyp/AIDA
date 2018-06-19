@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AIDA</string>
+    <string name="title_activity_robot_ui">RobotUI</string>
+    <string name="title_activity_permission">PermissionActivity</string>
+</resources>
